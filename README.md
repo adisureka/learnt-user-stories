@@ -1,2 +1,2 @@
-# learnt-user-stories
-University class work
+# learn-user-stories
+User Stories Tutorial
